@@ -22,7 +22,6 @@ This project showcases proficiency in classification tasks, feature scaling, and
 - [Project Overview](#project-overview)
 - [Key Technologies](#key-technologies)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Methodology](#methodology)
 - [Performance Metrics](#performance-metrics)
 - [Contributing](#contributing)
@@ -80,5 +79,3 @@ MIT License - see [LICENSE](LICENSE).
 Connect for ML discussions or data science opportunities!
 
 ---
-
-*Generated on September 18, 2025*
